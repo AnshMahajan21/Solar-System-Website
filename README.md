@@ -67,5 +67,10 @@ This project was built to strengthen my understanding of:
 ---
 
 ## 📷 Demo
+https://solarsystembyanshmahajan.netlify.app/
 
-_https://solarsystembyanshmahajan.netlify.app/_
+<img width="1919" height="865" alt="image" src="https://github.com/user-attachments/assets/562d4c79-93df-4f97-9b15-bf59ffb14cc0" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/114b8e48-401a-4c54-a68f-bf12efa898c2" />
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/b3122e01-2bbc-41d2-a107-641dc0b88536" />
+
+
